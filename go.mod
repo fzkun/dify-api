@@ -1,6 +1,6 @@
 module github.com/fzkun/dify-api
 
-go 1.23.1
+go 1.21.0
 
 require (
 	github.com/fzkun/goutil v1.0.2
